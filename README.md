@@ -14,7 +14,7 @@ This project expects a CSV dataset. By default the notebook attempts to load `/m
 
 ## Analysis Steps
 1. Data loading and initial checks
-2. Univariate analysis (distribution and counts)
+2. Univariate analysis (distribution and counts)  
 3. Bivariate analysis (feature vs churn)
 4. Multivariate analysis (correlation heatmap, pairplot)
 5. Numerical analysis (skewness, summary stats)
