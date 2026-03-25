@@ -1,4 +1,4 @@
-# Customer Churn Prediction – Exploratory Data Analysis & ML
+ # Customer Churn Prediction – Exploratory Data Analysis & ML
 
 ## Overview
 A polished exploratory data analysis (EDA) and a baseline machine learning model for customer churn prediction. This repository demonstrates the full workflow: data loading, EDA, feature engineering, encoding, feature binning, and a baseline Random Forest model.
